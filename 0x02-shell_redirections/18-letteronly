@@ -1,2 +1,4 @@
 #!/bin/bash
-grep ˄[[:ls:]] /etc/ssh/sshd_config
+root@5d39663e1725:/alx-system_engineering-devops/0x02-shell_redirections# cat > 18-letteronly
+#!/bin/bash
+grep ^[[:alpha:]] /etc/ssh/sshd_config
